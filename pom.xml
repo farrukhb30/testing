@@ -13,7 +13,7 @@
         <maven.compiler.target>11</maven.compiler.target>
     </properties>
     <build>
-        <finalName>docker-jenkins-integration-sample</finalName>
+        <finalName>testing</finalName>
     </build>
 
 </project>
